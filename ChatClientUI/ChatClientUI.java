@@ -50,14 +50,14 @@ public class ChatClientUI extends JFrame {
         usersPanel3 = new JPanel();
         usersPanel4 = new JPanel();
 
-        usersPanel1.add(new JLabel(new ImageIcon("pictures/LinFeng.jpg")));
-        usersPanel1.add(new JLabel("   Lin Feng (A184539)       "));
-        usersPanel2.add(new JLabel(new ImageIcon("pictures/WangHegong.png")));
-        usersPanel2.add(new JLabel("Wang Hegong (A185844)"));
-        usersPanel3.add(new JLabel(new ImageIcon("pictures/SongYufeng.jpg")));
-        usersPanel3.add(new JLabel("Song Yufeng (A178877)"));
-        usersPanel4.add(new JLabel(new ImageIcon("pictures/DengZhihong.png")));
-        usersPanel4.add(new JLabel("Deng Zhihong (A185015)"));
+        usersPanel1.add(new JLabel(new ImageIcon("pictures/1.jpg")));
+        usersPanel1.add(new JLabel("   xxx xxxx (xxxxxxx)       "));
+        usersPanel2.add(new JLabel(new ImageIcon("pictures/2.png")));
+        usersPanel2.add(new JLabel("xxxx xxxxxx (xxxxxxx)"));
+        usersPanel3.add(new JLabel(new ImageIcon("pictures/3.jpg")));
+        usersPanel3.add(new JLabel("xxxx xxxxxx (xxxxxxx)"));
+        usersPanel4.add(new JLabel(new ImageIcon("pictures/4.png")));
+        usersPanel4.add(new JLabel("xxxx xxxxxxx (xxxxxxx)"));
 
 
         JPanel buttonPanel = new JPanel();
