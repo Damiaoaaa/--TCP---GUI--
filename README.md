@@ -26,3 +26,5 @@ java ChatClientUI.run
 ~~~
 ![image](https://github.com/Damiaoaaa/--TCP---GUI--/blob/main/temp/code3.png)
 ### 现在软件已经打开了
+
+你可以在pitcutres文件夹中更改图片为自己的图片，并在ChatClientUI文件中选择并打开ChatClientUI.java文件修改
