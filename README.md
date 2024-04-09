@@ -4,7 +4,7 @@
 
 ## 操作步骤：
 ### 1.首先您应该打开项目下载位置的文件夹
-
+![image](https://github.com/Damiaoaaa/--TCP---GUI--/tree/main/temp/dic.png)
 ### 2.右键单击鼠标并使用终端打开
 
 ### 3.在终端内输入并按空格运行
