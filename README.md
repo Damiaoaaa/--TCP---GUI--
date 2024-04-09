@@ -27,4 +27,21 @@ java ChatClientUI.run
 ![image](https://github.com/Damiaoaaa/--TCP---GUI--/blob/main/temp/code3.png)
 ### 现在软件已经打开了
 
-你可以在pitcutres文件夹中更改图片为自己的图片，并在ChatClientUI文件中选择并打开ChatClientUI.java文件修改
+### 你可以在pitcutres文件夹中更改图片为自己的图片与名字，并在ChatClientUI文件中选择并打开ChatClientUI.java文件修改以下代码:
+![image](https://github.com/Damiaoaaa/--TCP---GUI--/blob/main/temp/change.png)
+
+## Finally：
+
+***ChatClientUI 主要用于储存软件的ui界面***
+
+***Server 主要用于储存服务端代码***
+
+***story 主要用于储存故事，你可以更改该文件夹内的文本为自己喜欢的故事***
+
+***temp 不重要 忽略它***
+
+***pictures 主要用于储存图片***
+
+***MusicPlayer 该文件夹用于储存调用音乐的代码 不需要做修改***
+
+***musics 软件运行时播放的背景音乐***
